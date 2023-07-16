@@ -99,3 +99,5 @@ The CodeFilm Overlay browser extension is open-source software released under th
 The CodeFilm Overlay browser extension was developed by [Your Name]. Special thanks to the open-source community for their contributions and inspiration.
 
 Please note that this extension was created for educational and experimental purposes and may not be suitable for production environments. Use it at your own risk.
+
+![Overlay Example Image ](https://github.com/txtatech/codefilm-unpacked/blob/main/codefilm-overlay-example.png)
